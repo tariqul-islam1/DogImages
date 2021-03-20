@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="listItemTitle">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="listItemSubTitle">
+        <item name="android:textColor">#5c5c5c</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+
+    <style name="detailScreenTitle">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="detailScreenDescription">
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

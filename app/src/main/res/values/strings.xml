@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Image Test</string>
+    <string name="dog_details">Dog details</string>
+    <string name="dog_image">Dog image</string>
+    <string-array name="dog_names">
+        <item>Limo</item>
+        <item>Kuka</item>
+        <item>Jack</item>
+        <item>Umbu</item>
+        <item>Mika</item>
+        <item>Jiju</item>
+    </string-array>
+    <string-array name="dog_characteristics">
+        <item>Cuteness at it best</item>
+        <item>Always busy and non-disciplined</item>
+        <item>Independence is what I look for</item>
+        <item>Eyes that kills serial killers</item>
+        <item>Sweetie cutie little master</item>
+        <item>Big sound in a small package</item>
+    </string-array>
+    <string name="dog_description">The domestic dog (Canis familiaris or Canis lupus familiaris) is a domesticated form of wolf. The dog descended from an ancient, extinct wolf, with the modern wolf being the dog\'s nearest living relative. The dog was the first species to be domesticated by hunter–gatherers more than 15,000 years ago, prior to the development of agriculture. Their long association with humans has led dogs to be uniquely attuned to human behavior, enabling an abundant cosmopolitan distribution and to be able to thrive on a starch-rich diet that would be inadequate for other canids.</string>
+    <string name="please_connect_to_internet">Please connect to internet</string>
+</resources>
